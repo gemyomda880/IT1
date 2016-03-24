@@ -6,8 +6,6 @@ public class team {
 	{
 		welcome();
 		
-		int x=0;
-		x=x/x;
 	}
 	
 	
