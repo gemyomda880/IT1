@@ -4,10 +4,15 @@ public class team {
 
 	public static void main(String args[])
 	{
+		welcome();
 		
-		System.out.println("hello world");
 	}
 	
 	
+	public static void welcome()
+	{
+		System.out.println("hello world");
+		
+	}
 	
 }
